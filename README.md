@@ -4,17 +4,17 @@
 
 Table des matières  :
  1. [Contexte🎍](#contexte)
- 2. [Description app](#description-app)
- 3. [Fonctionnalite demande](#fonctionnalite-demande)
- 4. [Regles des gestions](#regles-des-gestions)
- 5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
- 6. [Exigences techniques](#exigences-techniques)
- 7. [Criteres de qualite](#critères-de-qualite)
- 8. [Plan de livraison](#plan-de-livraison)
- 9. [Documentation](#documentation)
- 10. [Raci](#raci)
- 11. [Plan de formation](#plan-de-formation)
- 12. [Plan d'action](#plan-action)
+ 2. [Description app📳](#description-app)
+ 3. [Fonctionnalite demande🔭](#fonctionnalite-demande)
+ 4. [Regles des gestions📒](#regles-des-gestions)
+ 5. [Fonctionnalités optionnelle👑](#fonctionnalités-optionnelle)
+ 6. [Exigences techniques🎣](#exigences-techniques)
+ 7. [Criteres de qualite🚗](#critères-de-qualite)
+ 8. [Plan de livraison🚃](#plan-de-livraison)
+ 9. [Documentation📂](#documentation)
+ 10. [Raci🚂](#raci)
+ 11. [Plan de formation🎓](#plan-de-formation)
+ 12. [Plan d'action🎢](#plan-action)
 
 ### Contexte 
 
@@ -27,7 +27,7 @@ Une demande d'évolution sur les fonctionnalités suivantes par la banque edifie
 - le retrait d'argent 
 - consultation de l'historique des transactions
 
-`Et une fonctionnalités optionnelle`
+💹`Et une fonctionnalités optionnelle`
 - Prise rdv avec un conseiller 
 
 ### Description app
