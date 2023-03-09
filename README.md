@@ -25,6 +25,8 @@ _Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
 
 - recettes     => application finale en recettes tests
 
+- demo => demonstrations du produit 
+
 ## Test execution
 
 Pour lancer le test, suivre les commandes ci-dessous
