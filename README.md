@@ -84,3 +84,57 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 *Consultation historique de transactions :*
 - Se connecter sur son compte avec ses identifiants et mot de passe
 - Consulter son historique sur un distributeur automatique
+
+#### Fonctionnalités optionnelle
+
+*User stories :*
+- En tant que : client de la banque
+- Je veux : avoir la possibilté de souscrire une assurance habitation/auto/moto sur internet.
+- Afin de : s’assurer contre les risques liés aux habitation/auto/moto
+
+*Règles de gestion :*
+- Disposer des différentes offres d’assurances
+- Avoir une connexion internet
+- Avoir un smartphone ou un ordinateur
+- Se connecter sur son compte avec son identifiant et mot de passe
+
+### Exigences techniques
+
+#### Performance :
+
+- L'application doit être disponible 7j/7 et 24h/24
+- une latence inférieur à 50 ms
+- Clean code
+
+#### Sécurité :
+
+- l'application sera héberger dans un herbegement de sécurité de niveau haute tel que OVH avec les normes
+
+<sub>voir badge ci-dessous en cliquant dessus pour voir les différents sécurités proposés par OVH pour les banques:</sub>
+
+[![PCI DSS](https://badgen.net/amo/stars/markdown-viewer-chrome)](https://www.ovhcloud.com/fr/enterprise/certification-conformity/pci-dss/)
+[![AICPA SOC](https://badgen.net/amo/stars/markdown-viewer-chrome)](https://www.ovhcloud.com/fr/enterprise/certification-conformity/soc-1-2-3/)
+[![ISO](https://badgen.net/amo/stars/markdown-viewer-chrome)](https://www.ovhcloud.com/fr/enterprise/certification-conformity/soc-1-2-3/)
+
+#### Charge :
+
+- L'application sera de type SaaS pour notre client.
+- L'application sera autoscalable pour répondre aux pics d'activités
+
+#### Technologies à utilisés :
+
+- HTML et CSS 
+- React
+- Flutter/DART
+- Docker
+- GitHub
+
+### Critères de qualité :
+
+L'application doit répondre aux critères ci-dessous :
+
+- User friendly
+- Etre maintenable
+
+### Plan de livraison
+Un gantt a été mise en place pour le plan de livraison possibilté de le telecharge dans la branch images ou en clickant sur l'image
