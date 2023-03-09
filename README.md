@@ -20,3 +20,19 @@ _Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
 - dev_deruta   => fonctionnalité optionnelle **souscrire une assurance habitation/auto/moto**
 
 - recettes     => application finale en recettes tests
+
+## Test execution
+
+Pour lancer le test, suivre les commandes ci-dessous
+
+```bash
+  npm run test
+```
+
+## Documentation
+
+[Documentation](https://github.com/MiyaOneTerrian/m2_po_veasna_TANG/tree/product_manager)
+
+## Auteurs:
+
+- [Veasna TANG @MiyaOneTerrian](https://github.com/MiyaOneTerrian)
