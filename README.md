@@ -1,7 +1,7 @@
 # # Projet Octopath avec la banque edifier
 **devoir à rendre pour le 08/03/23**
 
-## Organisation du projet dans GitLab :
+## Organisation du projet dans GitHub :
 
 Il y a 2 branches présent pour présenter le projet :
 
@@ -17,7 +17,7 @@ _Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
 
 - dev_chari => fonctionnalité obligatoire : **consultation de l'historique des transactions**
 
-- dev_deruta   => fonctionnalité optionnelle **souscrire une assurance habitation/auto/moto**
+- dev_deruta   => fonctionnalité optionnelle : **souscrire une assurance habitation/auto/moto**
 
 - recettes     => application finale en recettes tests
 
