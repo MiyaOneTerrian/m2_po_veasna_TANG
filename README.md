@@ -15,6 +15,7 @@ Table des matières  :
  10. [Raci🚂](#raci)
  11. [Plan de formation🎓](#plan-de-formation)
  12. [Plan d'action🎢](#plan-action)
+ 13. [Autheurs👾](#autheurs)
 
 ### Contexte 
 
@@ -186,3 +187,7 @@ Pour tous les fonctionnalités ils auront tous la même boucle de formation:
 - Etape 1 : Validation des développeurs en phase de tests de la fonctionnalité 
 - Etape 2 : chef de projet après validation des développeurs 
 - Etape 3 : parties prenantes après validation du chef de projet 
+
+## Auteurs:
+
+- [Veasna TANG @MiyaOneTerrian](https://github.com/MiyaOneTerrian)
