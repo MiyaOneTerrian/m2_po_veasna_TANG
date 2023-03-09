@@ -6,7 +6,7 @@ Table des matières  :
  1. [Contexte](#contexte)
  2. [Description app](#description-app)
  3. [Fonctionnalite demande](#fonctionnalite-demande)
- 4. [Regles des gestions](#regles-des-gestions)
+ 4. [Regles des gestions](#regles-des-gestions☃️)
  5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
  6. [Exigences techniques](#exigences-techniques)
  7. [Criteres de qualite](#critères-de-qualite)
