@@ -1,6 +1,6 @@
 # # Projet Octopath avec la banque 🏦 Edifier 
 
-**devoir à rendre pour le 08/03/23**
+**devoir à rendre pour le 09/03/23**
 
 ***ATTENTION pour voir le Cahier des charges !! voir la partie section [Documentation](#documentation)***
 
@@ -11,9 +11,9 @@
 
 Il y a 2 branches présent pour présenter le projet :
 
-- main  
+- main 🍉
 
-- product_manager => tous la documentation du projet 
+- product_manager => tous la documentation du projet 🍋
 
 _Si le projet est lancé 7 branches seront créés plus tard cité ci-dessous :_
 
@@ -31,7 +31,7 @@ _Si le projet est lancé 7 branches seront créés plus tard cité ci-dessous :_
 
 - images => pour le stockage des images (raci, gant,....) pour le cahier de charges
 
-## Test execution
+## Test d'execution (c'est faux ^^!)
 
 Pour lancer le test, suivre les commandes ci-dessous
 
