@@ -3,7 +3,7 @@
 
 ATTENTION pour voir le Cahier des charges: voir la partie section Documentation
 # Bonjour 👋
-![Logo](https://welcome.univ-perp.fr/medias/photo/10808-_1626188408737-jpg?ID_FICHE=1013972)
+![Logo](https://media.tenor.com/gPJodWI_nGwAAAAC/welcome.gif)
 
 ## Organisation du projet dans GitHub :
 
