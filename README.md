@@ -142,3 +142,17 @@ L'application doit répondre aux critères ci-dessous :
 Un gantt a été mise en place pour le plan de livraison possibilté de le telecharge dans la branch images ou en clickant sur l'image
 [dossier images](https://github.com/MiyaOneTerrian/m2_po_veasna_TANG/tree/images)
 ![Gantt](https://raw.githubusercontent.com/MiyaOneTerrian/m2_po_veasna_TANG/images/Gantt.png)
+
+### Documentation
+
+SWOT de matrice de faisabilité*
+CQQCOQP 
+Cahier des charges
+Flash report(s)
+Cahier de tests
+Pv de recettes
+
+### Raci
+Un Raci a été mise en place pour le plan de livraison possibilté de le telecharge dans la branch images ou en clickant sur l'image
+[dossier images](https://github.com/MiyaOneTerrian/m2_po_veasna_TANG/tree/images)
+![RACI](https://raw.githubusercontent.com/MiyaOneTerrian/m2_po_veasna_TANG/images/raci.png)
