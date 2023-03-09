@@ -84,7 +84,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Je veux consulter l’historique de mon compte
 - Afin de voir mes différents transactions
 
-### Regles des gestions ☃️
+### Regles des gestions☃️
 *dépot d'argent :*
 - Se connecter à son espace en ligne avec ses identifiants 
 - Disposer d’un RIB
