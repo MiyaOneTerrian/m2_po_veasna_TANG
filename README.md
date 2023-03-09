@@ -6,7 +6,7 @@ Table des matières  :
  1. [Contexte](#contexte)
  2. [Description app](#description-app)
  3. [Fonctionnalite demande](#fonctionnalite-demande)
- 4. [Regles des gestions](#regles-des-gestions☃️)
+ 4. [Regles des gestions](#regles-des-gestions)
  5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
  6. [Exigences techniques](#exigences-techniques)
  7. [Criteres de qualite](#critères-de-qualite)
@@ -84,7 +84,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Je veux consulter l’historique de mon compte
 - Afin de voir mes différents transactions
 
-### Regles des gestions☃️
+### Regles des gestions
 *dépot d'argent :*
 - Se connecter à son espace en ligne avec ses identifiants 
 - Disposer d’un RIB
