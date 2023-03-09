@@ -146,7 +146,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Docker
 - GitHub
 
-### Criteres de qualite :
+### Criteres de qualite
 
 L'application doit répondre aux critères ci-dessous :
 
