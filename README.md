@@ -120,7 +120,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 
 #### Charge :
 
-- L'application sera de type SaaS pour notre client.
+- L'application sera de type SaaS pour notre client.	
 - L'application sera autoscalable pour répondre aux pics d'activités
 
 #### Technologies à utilisés :
@@ -156,3 +156,19 @@ Pv de recettes
 Un Raci a été mise en place pour le plan de livraison possibilté de le telecharge dans la branch images ou en clickant sur l'image
 [dossier images](https://github.com/MiyaOneTerrian/m2_po_veasna_TANG/tree/images)
 ![RACI](https://raw.githubusercontent.com/MiyaOneTerrian/m2_po_veasna_TANG/images/raci.png)
+
+### Plan de formation
+Pour tous les fonctionnalités ils auront tous la même boucle de formation:
+
+- Formation des agences pilotes définies (phase pilote) => envois de vidéo de formation + PPT => **durée 1 semaine**
+*accès aux classes virtuelles si besoin*
+
+✅ `si succès des agences pilotes` 
+
+- Formation des agences nationales => envois de vidéo de formation + PPT => **durée 1 semaine**
+
+### Plan action 
+
+- Etape 1 : Validation des développeurs en phase de tests de la fonctionnalité 
+- Etape 2 : chef de projet après validation des développeurs 
+- Etape 3 : parties prenantes après validation du chef de projet 
