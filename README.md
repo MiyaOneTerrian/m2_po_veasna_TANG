@@ -30,7 +30,7 @@ Une demande d'évolution sur les fonctionnalités suivantes par la banque edifie
 `Et une fonctionnalités optionnelle`
 - Prise rdv avec un conseiller 
 
-### Description app 🌠
+### Description app
 
 #### Environnement
 
@@ -67,7 +67,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - professionnel
 - personnel de la banque Edifier (support, admins, dev...)
 
-### Fonctionnalite demande 🌠
+### Fonctionnalite demande
 
 *dépot d'argent :*
 - En tant que client de la banque
