@@ -21,7 +21,7 @@ _Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
 
 - dev_chari => fonctionnalité obligatoire : **consultation de l'historique des transactions**
 
-- dev_deruta   => fonctionnalité optionnelle : **souscrire une assurance habitation/auto/moto**
+- dev_deruta   => fonctionnalité optionnelle : **Prise rdv avec conseiller**
 
 - recettes     => application finale en recettes tests
 
