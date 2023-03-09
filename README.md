@@ -4,12 +4,12 @@
 
 Table des matières  :
  1. [Contexte](#contexte)
- 2. [Description](#description-de-app)
- 3. [Fonctionnalités demandés](#fonctionnalités-demandés)
- 4. [Règles des gestions pour les fonctionnatés demandés](#règles-des-gestions-pour-les-fonctionnatés-demandés)
+ 2. [Description](#description-app)
+ 3. [Fonctionnalités demandés](#fonctionnalites-demandes)
+ 4. [Règles des gestions pour les fonctionnatés demandés](#règles-des-gestions-pour-les-fonctionnates-demandes)
  5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
  6. [Exigences techniques](#exigences-techniques)
- 7. [Critères de qualités](#critères-de-qualité)
+ 7. [Critères de qualités](#critères-de-qualite)
  8. [Plan de livraison](#plan-de-livraison)
  9. [Documentation](#documentation)
  10. [Raci](#raci)
@@ -30,7 +30,7 @@ Une demande d'évolution sur les fonctionnalités suivantes par la banque edifie
 `Et une fonctionnalités optionnelle`
 - Prise rdv avec un conseiller 
 
-### Description de app 🌠
+### Description app 🌠
 
 #### Environnement
 
