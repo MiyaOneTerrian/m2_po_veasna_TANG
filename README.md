@@ -1,8 +1,8 @@
-# # Projet Octopath avec la banque edifier
+# # Projet Octopath avec la banque edifier 
 **devoir à rendre pour le 08/03/23**
 
 ATTENTION pour voir le Cahier des charges: voir la partie section Documentation
-
+# Bonjour 👋
 ![Logo](https://welcome.univ-perp.fr/medias/photo/10808-_1626188408737-jpg?ID_FICHE=1013972)
 
 ## Organisation du projet dans GitHub :
