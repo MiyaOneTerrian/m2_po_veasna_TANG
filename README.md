@@ -9,7 +9,7 @@ Table des matières  :
  4. [Regles des gestions📒](#regles-des-gestions)
  5. [Fonctionnalités optionnelle👑](#fonctionnalités-optionnelle)
  6. [Exigences techniques🎣](#exigences-techniques)
- 7. [Criteres de qualite🚗](#critères-de-qualite)
+ 7. [Criteres de qualite🚗](#criteres-de-qualite)
  8. [Plan de livraison🚃](#plan-de-livraison)
  9. [Documentation📂](#documentation)
  10. [Raci🚂](#raci)
