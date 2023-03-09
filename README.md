@@ -1,7 +1,9 @@
-# # Projet Octopath avec la banque edifier 
+# # Projet Octopath avec la banque 🏦 Edifier 
+
 **devoir à rendre pour le 08/03/23**
 
-ATTENTION pour voir le Cahier des charges: voir la partie section Documentation
+***ATTENTION pour voir le Cahier des charges: voir la partie section [Documentation](#documentation)***
+
 # Bonjour 👋
 ![Logo](https://media.tenor.com/gPJodWI_nGwAAAAC/welcome.gif)
 
