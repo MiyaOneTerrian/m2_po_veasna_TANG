@@ -15,15 +15,15 @@ Il y a 2 branches présent pour présenter le projet :
 
 _Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
 
-- dev_arufa   => fonctionnalité obligatoire : **retrait d'argent**
+- dev_arufa => fonctionnalité obligatoire : **retrait d'argent**
 
-- dev_genkidzukeru  => fonctionnalité obligatoire : **depot d'argent**
+- dev_genkidzukeru => fonctionnalité obligatoire : **depot d'argent**
 
 - dev_chari => fonctionnalité obligatoire : **consultation de l'historique des transactions**
 
-- dev_deruta   => fonctionnalité optionnelle : **Prise rdv avec conseiller**
+- dev_deruta => fonctionnalité optionnelle : **Prise rdv avec conseiller**
 
-- recettes     => application finale en recettes tests
+- recettes => application finale en recettes tests
 
 - demo => demonstrations du produit 
 
