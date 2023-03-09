@@ -5,8 +5,8 @@
 Table des matières  :
  1. [Contexte](#contexte)
  2. [Description](#description-app)
- 3. [Fonctionnalités demandés](#fonctionnalites-demandes)
- 4. [Règles des gestions pour les fonctionnatés demandés](#règles-des-gestions-pour-les-fonctionnates-demandes)
+ 3. [Fonctionnalités demandés](#fonctionnalite-demande)
+ 4. [Règles des gestions pour les fonctionnatés demandés](#regles-des-gestions)
  5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
  6. [Exigences techniques](#exigences-techniques)
  7. [Critères de qualités](#critères-de-qualite)
@@ -67,7 +67,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - professionnel
 - personnel de la banque Edifier (support, admins, dev...)
 
-### Fonctionnalités demandés 🌠
+### Fonctionnalite demande 🌠
 
 *dépot d'argent :*
 - En tant que client de la banque
@@ -84,7 +84,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Je veux consulter l’historique de mon compte
 - Afin de voir mes différents transactions
 
-### Règles des gestions pour les fonctionnatés demandés ☃️
+### Regles des gestions ☃️
 *dépot d'argent :*
 - Se connecter à son espace en ligne avec ses identifiants 
 - Disposer d’un RIB
@@ -101,7 +101,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Se connecter sur son compte avec ses identifiants et mot de passe
 - Consulter son historique sur un distributeur automatique
 
-#### Fonctionnalités optionnelle
+### Fonctionnalités optionnelle
 
 *User stories :*
 - En tant que : client de la banque
