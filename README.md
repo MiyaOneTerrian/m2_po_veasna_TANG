@@ -4,12 +4,12 @@
 
 Table des matières  :
  1. [Contexte](#contexte)
- 2. [Description](#description-app)
- 3. [Fonctionnalités demandés](#fonctionnalite-demande)
- 4. [Règles des gestions pour les fonctionnatés demandés](#regles-des-gestions)
+ 2. [Description app](#description-app)
+ 3. [Fonctionnalite demande](#fonctionnalite-demande)
+ 4. [Regles des gestions](#regles-des-gestions)
  5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
  6. [Exigences techniques](#exigences-techniques)
- 7. [Critères de qualités](#critères-de-qualite)
+ 7. [Criteres de qualite](#critères-de-qualite)
  8. [Plan de livraison](#plan-de-livraison)
  9. [Documentation](#documentation)
  10. [Raci](#raci)
@@ -145,7 +145,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Docker
 - GitHub
 
-### Critères de qualité :
+### Criteres de qualite :
 
 L'application doit répondre aux critères ci-dessous :
 
