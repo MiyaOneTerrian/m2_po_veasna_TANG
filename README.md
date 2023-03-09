@@ -105,15 +105,17 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 ### Fonctionnalités optionnelle
 
 *User stories :*
-- En tant que : client de la banque
-- Je veux : avoir la possibilté de souscrire une assurance habitation/auto/moto sur internet.
-- Afin de : s’assurer contre les risques liés aux habitation/auto/moto
+- En tant que client de la banque Edifier
+- Je souhaite prendre un rendez-vous avec mon conseiller
+- Afin de me faciliter les démarches ou échanges avec mon conseiller 
+- Lorsque je suis disponible
+
 
 *Règles de gestion :*
-- Disposer des différentes offres d’assurances
-- Avoir une connexion internet
-- Avoir un smartphone ou un ordinateur
-- Se connecter sur son compte avec son identifiant et mot de passe
+- Se connecter sur son compte avec les identifiants et mdp
+- Choisir la date de rdv avec le conseiller
+- Connaître le motif du RDV
+
 
 ### Exigences techniques
 
@@ -146,7 +148,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Docker
 - GitHub
 
-### Criteres de qualite
+### Criteres de qualite 
 
 L'application doit répondre aux critères ci-dessous :
 
