@@ -1,5 +1,7 @@
 # Cahier des charges du product_manager
 
+![header_img](https://www.com3elles.com/images/blog/2016/07/cahier-charges.jpg)
+
 ### Contexte 
 
 La banque Edifier nous a contacter pour afin d'amélioration leurs application déjà mise en place qui concernant la gestion des comptes bancaires.
