@@ -41,7 +41,7 @@ Pour lancer le test, suivre les commandes ci-dessous
 
 ## Documentation
 
-[Documentation](https://github.com/MiyaOneTerrian/m2_po_veasna_TANG/tree/product_manager)
+[Cliquer ici pour accéder au cahier des charges !](https://github.com/MiyaOneTerrian/m2_po_veasna_TANG/tree/product_manager)
 
 ## Auteurs:
 
