@@ -13,7 +13,7 @@ Il y a 2 branches présent pour présenter le projet :
 
 - product_manager => tous la documentation du projet 
 
-_Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
+_Si le projet est lancé 7 branches seront créés plus tard cité ci-dessous :_
 
 - dev_arufa => fonctionnalité obligatoire : **retrait d'argent**
 
@@ -26,6 +26,8 @@ _Si le projet est lancé 5 branches seront créés plus tard cité ci-dessous :_
 - recettes => application finale en recettes tests
 
 - demo => demonstrations du produit 
+
+- images => pour le stockage des images (raci, gant,....) pour le cahier de charges
 
 ## Test execution
 
