@@ -15,7 +15,7 @@ Table des matières  :
  10. [Raci🚂](#raci)
  11. [Plan de formation🎓](#plan-de-formation)
  12. [Plan d'action🎢](#plan-action)
- 13. [Autheurs👾](#autheurs)
+ 13. [Auteurs👾](#auteurs)
 
 ### Contexte 
 
