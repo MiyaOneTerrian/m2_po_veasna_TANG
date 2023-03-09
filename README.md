@@ -1,6 +1,20 @@
-# Cahier des charges du product_manager
+# Cahier des charges du product_manager 📃 
 
 ![header_img](https://www.com3elles.com/images/blog/2016/07/cahier-charges.jpg)
+
+Table des matières  :
+ 1. [Contexte](#contexte)
+ 2. [Description](#description-de-app)
+ 3. [Fonctionnalités demandés](#fonctionnalités-demandés)
+ 4. [Règles des gestions pour les fonctionnatés demandés](#règles-des-gestions-pour-les-fonctionnatés-demandés)
+ 5. [Fonctionnalités optionnelle](#fonctionnalités-optionnelle)
+ 6. [Exigences techniques](#exigences-techniques)
+ 7. [Critères de qualités](#critères-de-qualité)
+ 8. [Plan de livraison](#plan-de-livraison)
+ 9. [Documentation](#documentation)
+ 10. [Raci](#raci)
+ 11. [Plan de formation](#plan-de-formation)
+ 12. [Plan d'action](#plan-action)
 
 ### Contexte 
 
