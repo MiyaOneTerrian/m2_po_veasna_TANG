@@ -11,13 +11,15 @@
 
 ## Organisation du projet dans GitHub :
 
-Il y a 2 branches présent pour présenter le projet :
+Il y a 3 branches présent pour présenter le projet :
 
 - main 🍉
 
 - product_manager => tous la documentation du projet 🍋
 
-_Si le projet est lancé 7 branches seront créés plus tard cité ci-dessous :_
+- images => pour le stockage des images (raci, gant,....) pour le cahier de charges
+
+_Si le projet est lancé 6 branches seront créés plus tard cité ci-dessous :_
 
 - dev_arufa => fonctionnalité obligatoire : **retrait d'argent**
 
@@ -31,7 +33,6 @@ _Si le projet est lancé 7 branches seront créés plus tard cité ci-dessous :_
 
 - demo => demonstrations du produit 
 
-- images => pour le stockage des images (raci, gant,....) pour le cahier de charges
 
 ## Test d'execution (c'est faux ^^!)
 
