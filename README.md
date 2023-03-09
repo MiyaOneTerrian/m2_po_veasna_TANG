@@ -1,10 +1,10 @@
 # Cahier des charges du product_manager
 
-### Contexte
+### Contexte 
 
 La banque Edifier nous a contacter pour afin d'amélioration leurs application déjà mise en place qui concernant la gestion des comptes bancaires.
 
-#### Objectif
+#### Objectif 🌟
 
 Une demande d'évolution sur les fonctionnalités suivantes par la banque edifier :
 - dépôt d'argent
@@ -14,7 +14,7 @@ Une demande d'évolution sur les fonctionnalités suivantes par la banque edifie
 `Et une fonctionnalités optionnelle`
 - Prise rdv avec un conseiller 
 
-### Description de app
+### Description de app 🌠
 
 #### Environnement
 
@@ -51,7 +51,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - professionnel
 - personnel de la banque Edifier (support, admins, dev...)
 
-### Fonctionnalités demandés
+### Fonctionnalités demandés 🌠
 
 *dépot d'argent :*
 - En tant que client de la banque
@@ -68,7 +68,7 @@ L'application Edifier dispose déjà des fonctionnalités fonctionneles qui sont
 - Je veux consulter l’historique de mon compte
 - Afin de voir mes différents transactions
 
-### Règles des gestions pour les fonctionnatés demandés
+### Règles des gestions pour les fonctionnatés demandés ☃️
 *dépot d'argent :*
 - Se connecter à son espace en ligne avec ses identifiants 
 - Disposer d’un RIB
