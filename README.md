@@ -4,7 +4,7 @@
 
 ***ATTENTION pour voir le Cahier des charges !! voir la partie section [Documentation](#documentation)***
 
-#### Le read.me a été fait avec : [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+#### Le read.me est fait pour marcher sur [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 # Bonjour 👋
 ![Logo](https://media.tenor.com/gPJodWI_nGwAAAAC/welcome.gif)
